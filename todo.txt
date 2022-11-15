@@ -1,4 +1,4 @@
 
 make pathway to secrete GlcNAc from GlcNAc-6-P. Maybe suger phosphatase or alkaline phosphatase, present in the periplasm
 
-KO nagB (b0678), nagA (b0677), nagE (b06789), manXYZ (b1817, b1818, b1819), [GLCptspp? maybe]
+KO nagB (b0678), nagA (b0677), nagE (b0679), manXYZ (b1817, b1818, b1819), [GLCptspp? maybe]
