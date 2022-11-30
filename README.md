@@ -3,7 +3,7 @@
 
 # 27410 - Group assignment - Group 13 - Glucosamine in e. coli
 
-## Project summary (<300 words)
+## Project summary
 In this project, we seek to create an Escherichia coli strain capable of producing high amounts of glucosamine and N-acetyl glucosamine. Using a paper by Deng et. al. (2005) as a reference, we picked out and modified an E. coli model called iML1515, to increase the production of glucosamine. The missing reactions to produce glucosamine were added, after which the same 6 knockouts were conducted as in the Deng et. al. paper.
 
 We picked out another 4 knockouts to optimize N-acetyl glucosamine production. The productivity of the cells were investigated by comparing different media types, where it was found that addition of ribose increased glucosamine production. Phenotypic phase planes were used to compare the production of N-acetyl glucosamine at different levels of biomass and oxygen uptake, and find the optimal levels of each. 
