@@ -3,15 +3,6 @@
 
 # 27410 - Group assignment - Group 13 - Glucosamine in e. coli
 
-> Dear students, thank you for accepting the group assignment. Please fill in the
-> requested information below and above ([Group Number] and [TITLE]) and remove this quoted part before submission (everything prepended with a >).
-> Please also replace `[PUT-YOUR-REPOSITORY-HERE]` up in the first line 👆 with the name of your repository here on GitHub.
-> That way someone can click on the Binder badge icon and open your project in Jupyter lab to explore it.
-> For this to work you will also have to keep `requirements.txt` up to date (by running `pip freeze > requirements.txt`).
-> Furthermore, this will only work if you decide to make your repository public (which you can do under Settings -> Options),
-> which I would encourage you to do – up to you. A lot of good science happens out in the open these days.
-> Good luck!
-
 ## Project summary (<300 words)
 In this project, we seek to create an Escherichia coli strain capable of producing high amounts of glucosamine and N-acetyl glucosamine. Using a paper by Deng et. al. (2005) as a reference, we picked out and modified an E. coli model called iML1515, to increase the production of glucosamine. The missing reactions to produce glucosamine were added, after which the same 6 knockouts were conducted as in the Deng et. al. paper.
 
