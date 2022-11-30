@@ -15,7 +15,7 @@ Finally, optGene was used to identify three genes, which when knocked out will l
 
 We finally conducted a flux variability analysis of glucosamine in our model, to look at how different genes found through the FSEOF would vary in flux depending on glucosamine production.
 
-Through this project we created a model that is theoretically capable of above 510 mmol/l of N-acetyl glucosamine, which is higher than what was reported by Deng et. al. of 498 mmol/l.
+Through this project we created a model that is theoretically capable of above 526.4 mmol/l of N-acetyl glucosamine, which is higher than what was reported by Deng et. al. of 498 mmol/l.
 
 
 
