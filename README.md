@@ -13,8 +13,6 @@
 > Good luck!
 
 ## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
-
 In this project, we seeked to create an Escherichia coli strain capable of producing high amounts of glucosamine and N-acetyl glucosamine, used for treatment of osteoarthritis. Using a paper by Deng et. al. (2005, see references) as a reference, we picked out and modified an E. coli model called iML1515, to increase the production of glucosamine. Firstly the missing reactions needed to produce glucosamine were added, after which the same 6 knockouts were conducted as in the Deng et. al. paper.
 
 Continuing upon this, we picked out another 4 knockouts to optimize N-acetyl glucosamine production. The productivity of the cells were investigated by comparing different media types, where it was found that addition of ribose increased the production of glucosamine. Phenotypic phase planes were used to compare the production of N-acetyl glucosamine at different levels of biomass and oxygen uptake, and find the optimal levels of each. 
@@ -30,8 +28,6 @@ We have through this project created a model that is theoretically capable of la
 
 
 ## Project overview
-Describe how your project is organized ...
-
 All models used (iML1515, it’s modified version and other E. coli models used for comparison) can be found in the models folder
 The report is located in the Report.ipynb file
 An overview of the designs can be seen in the design_overview.xlsx file
