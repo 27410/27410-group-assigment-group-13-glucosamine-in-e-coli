@@ -20,8 +20,8 @@ Through this project we created a model that is theoretically capable of above 5
 
 
 ## Project overview
-All models used (iML1515, it’s modified version and other E. coli models used for comparison) can be found in the models folder
-The report is located in the Report.ipynb file
-An overview of the designs can be seen in the design_overview.xlsx file
+* All models used (iML1515, it’s modified version and other E. coli models used for comparison) can be found in the models folder
+* The report is located in the Report.ipynb file
+* An overview of the designs can be seen in the design_overview.xlsx file
 
 
